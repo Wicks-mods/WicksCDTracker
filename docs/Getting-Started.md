@@ -3,7 +3,7 @@
 ## Install
 
 - **CurseForge client** — search for "Wick's CD Tracker".
-- **Manual** — download the latest ZIP from [CurseForge](https://www.curseforge.com/wow/addons/wicks-cd-tracker) or [GitHub Releases](https://github.com/Wicksmods/WicksCDTracker/releases), extract the `WicksCDTracker` folder into `World of Warcraft\_classic_\Interface\AddOns\`.
+- **Manual** — download the latest ZIP from [CurseForge](https://www.curseforge.com/wow/addons/wicks-cd-tracker) or [GitHub Releases](https://github.com/Wicks-mods/WicksCDTracker/releases), extract the `WicksCDTracker` folder into `World of Warcraft\_classic_\Interface\AddOns\`.
 
 ## First run
 

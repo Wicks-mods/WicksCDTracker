@@ -2,7 +2,7 @@
 
 > Live party and raid cooldown tracker. Kicks, saves, offensives, utility — all in one tight panel.
 
-Part of the **[Wick Suite](https://github.com/Wicksmods/WickSuite)**.
+Part of the **[Wick Suite](https://github.com/Wicks-mods/WickSuite)**.
 
 ## Pages
 
@@ -12,7 +12,7 @@ Part of the **[Wick Suite](https://github.com/Wicksmods/WickSuite)**.
 
 ## Links
 
-- [GitHub repo](https://github.com/Wicksmods/WicksCDTracker)
+- [GitHub repo](https://github.com/Wicks-mods/WicksCDTracker)
 - [CurseForge](https://www.curseforge.com/wow/addons/wicks-cd-tracker)
-- [Changelog](https://github.com/Wicksmods/WicksCDTracker/blob/main/CHANGELOG.md)
-- [Report an issue](https://github.com/Wicksmods/WicksCDTracker/issues)
+- [Changelog](https://github.com/Wicks-mods/WicksCDTracker/blob/main/CHANGELOG.md)
+- [Report an issue](https://github.com/Wicks-mods/WicksCDTracker/issues)
