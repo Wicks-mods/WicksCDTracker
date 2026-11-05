@@ -1,5 +1,15 @@
 # Wick's CD Tracker — Changelog
 
+## 0.3.4 (2026-11-05)
+
+### Added
+
+- The panel snaps to the edge of any other Wick window you drag it
+  near, the way Wick's Ledger does, so the two sit flush. Drag it clear
+  to let go.
+- Closing the panel is remembered: it stays closed across a reload until
+  you open it again.
+
 ## 0.3.3 - 2026-10-01
 
 ### Fixed
